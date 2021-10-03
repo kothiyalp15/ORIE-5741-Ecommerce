@@ -1,9 +1,7 @@
 # ORIE-5741-Ecommerce
 
-Project Name: Evaluating review system efficacy from Airbnb listing and review data
-Members:
-
-Candy Duan (jd2253), Rachel Zhang (jz2232), Sirawich Tippawanich (st895)
+Project Name: Determining Product Popularity from Online Ratings and Review Data
+Group Members: Prat Kothiyal (pk383), Bjorn Teo (jt667), Ignacio Arevalo (iaa26)
 Brief project description:
 
-Property listing details and guest reviews can provide insights about how effective the platform's review system is in regulating the equilibrium of the home-sharing market. The team seeks to use the available data to determine the relationships between each review component and the hosts' listing prices. The relationships will be explored across groups of hosts based on segmentations such as geographical location, property type and amenities offered.
+Suppose we are an electronics store deciding what and how much inventory to stock to keep up with demand. Furthermore, we may want to predict the reason for non-recommendations on some electronics in order to give feedback to our manufacturer, build better store warranties, educate our consumers, and train our support team on helping disgruntled customers. Our project seeks to investigate a large dataset of electronics product reviews collected from several online retail websites in order to determine whether a product is considered popular or not. The dataset itself has fields for each product's brand and model name, and detailed review information incuding rating, how many users found the review helpful, the review title and content, and the website where the review came from.
