@@ -1,6 +1,7 @@
-# ORIE-5741-Ecommerce
+# Predicting Electronics Product Popularity
 
 Project Name: Determining Product Popularity from Online Ratings and Review Data
+
 Group Members: Prat Kothiyal (pk383), Bjorn Teo (jt667), Ignacio Arevalo (iaa26)
 
 Brief project description:
