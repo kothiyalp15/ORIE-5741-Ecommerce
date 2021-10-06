@@ -1,6 +1,6 @@
-# Predicting Electronics Product Popularity
+# How well does FIFA Player Ratings contribute towards predicting Player’s Actual Market Value
 
-Project Name: Determining Product Popularity from Online Ratings and Review Data
+Project Name: Using FIFA Video Game Ratings to Predict Player's Market Value
 
 Group Members: Prat Kothiyal (pk383), Bjorn Teo (jt667), Ignacio Arevalo (iaa26)
 
