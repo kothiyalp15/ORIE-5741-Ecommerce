@@ -7,5 +7,3 @@ Group Members: Prat Kothiyal (pk383), Bjorn Teo (jt667), Ignacio Arevalo (iaa26)
 Brief project description:
 
 We plan to use player data from FIFA video game editions, especially data regarding the skill they have in the sport, to predict player market values. We believe this information would be informative for sports clubs in various professional leagues to determine player value as a factor of their own merit.
-
-Dataset: https://data.world/datafiniti/amazon-and-best-buy-electronics
